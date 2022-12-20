@@ -2,4 +2,4 @@
 
 
 
-function randomNumber() { $('input[name="transaction_amount"]').val(  value=Math.floor(Math.random()*10+5));}
+function randomNumber() { $('input[name="transaction_amount"]').val(  value=Math.floor(Math.random()*40+10));}
